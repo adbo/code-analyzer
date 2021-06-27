@@ -1,7 +1,6 @@
 Code analyzer - this application can take a grammar as input and perform lexical analysis of a code which using the language described by this grammar. Application use a open source library Jison (https://zaa.ch/jison/) to build a JS capable of parsing a code.
 
-Prerequisites:
-Node.JS - https://nodejs.dev/
+To run this code You need to install library Node.JS (https://nodejs.dev/)
 
 Installation:
 npm init
